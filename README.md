@@ -2,6 +2,9 @@
 
 ## 💻 Projeto
 Uma api em golang que le os dados de uma planilha publica no google sheets, converte para uma struct e retornar em json.
+
+Esse projeto serve de base para ser consumido no front-end feito no repositório https://github.com/zthiagovalle/recicle-municipio.
+
 Os dados na planilha estão assim:
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/46169077/227675474-5aba53b7-708d-4eee-902c-7e427dd329ed.png">
 
